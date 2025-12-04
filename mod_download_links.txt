@@ -32,6 +32,10 @@ https://cdn.modrinth.com/data/MVARlG2f/versions/boj4QtcB/Zeta-1.0-30.jar
 #Thermal Series Dependency
 https://cdn.modrinth.com/data/OWSRM4vD/versions/kglS53Hd/cofh_core-1.20.1-11.0.2.56.jar
 
+#Citadel 2.6.2
+#Ice and fire depenedcy
+https://cdn.modrinth.com/data/jJfV67b1/versions/oD1qDb1C/citadel-2.6.2-1.20.1.jar
+
 
 
 #BOSSES
@@ -55,6 +59,10 @@ https://cdn.modrinth.com/data/k23mNPhZ/versions/ADmEFc16/aquamirae-forge-1.20.1-
 
 #Call of yucutan FORGE 1.0.13
 https://cdn.modrinth.com/data/RV4ezinu/versions/s49dr29b/call_of_yucutan-1.0.13-forge-1.20.1.jar
+
+#Ice and Fire NEO/FORGE 2.1.13
+#Add wiverns, cyclops... Armors, weapons, materials...
+https://cdn.modrinth.com/data/LVnvHVBp/versions/EzN8KQYF/iceandfire-2.1.13-1.20.1-beta-5.jar
 
 
 
@@ -81,6 +89,10 @@ https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar
 #Create: Crafts and Additions FORGE 1.3.3
 #Addon that adds various addtitions and compatibility with RF mods
 https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar
+
+#Create: Steam 'n' Rails NEO/FORGE 1.6.14 
+#Addon that adds more crafts for crate trains. 
+https://cdn.modrinth.com/data/ZzjhlDgM/versions/ubktvkSZ/Steam_Rails-1.6.14-beta%2Bforge-mc1.20.1.jar
 
 
 
