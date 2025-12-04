@@ -6,7 +6,7 @@ All mods listed here are provided as **direct Modrinth CDN links** for fast and 
 
 ---
 
-## 📁 Structure
+## Structure
 
 The file is organized by categories such as:
 
@@ -23,7 +23,7 @@ Each category contains the required mods and their **exact versions**.
 
 ---
 
-## 🛠 How to Add New Mods
+## How to Add New Mods
 
 Follow these steps carefully when adding new mods:
 
@@ -37,7 +37,7 @@ Follow these steps carefully when adding new mods:
    * The link must be the *direct file download*.
    * To get it: right-click the download button on Modrinth → *Copy link*.
 
-### ✅ Example
+### Example
 
 ```md
 #Jenny's mod NEOFORGE 1.0.0
@@ -46,7 +46,7 @@ https://cdn.modrinth.com/data/797897/version/768768/jennysmod-1.0.0.jar
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 * Do **not** use web page URLs — only **direct `.jar` download links** are allowed.
 * Always verify:
@@ -58,7 +58,7 @@ https://cdn.modrinth.com/data/797897/version/768768/jennysmod-1.0.0.jar
 
 ---
 
-## ✅ Purpose of This Repository
+## Purpose of This Repository
 
 * Centralized mod downloading
 * Easy modpack setup
