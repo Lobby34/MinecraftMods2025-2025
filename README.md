@@ -1,0 +1,132 @@
+#############################################################################################################################################################################
+#                                                                                                                                                                           #
+#   PASSOS PER A AFEGIR MODS                                                                                                                                                #
+#   1.- Afegir-lo a la categoría correcta. (Si aquesta categoría no existeix, crearla)                                                                                      #
+#   2.- Posar quin mod és en un comentari amb el següent format: NOM - ARQUITECTURA (FORGE / NEOFORGE) - VERSIÓ                                                             #
+#   3.- Afegir el link de descàrrega a sota de modrinth. ÉS NECESSRI que sigui directament el link de descàrrega. (Click dret boto de descàrrega -> copiar link)            #
+#                                                                                                                                                                           #
+#   EXEMPLE:                                                                                                                                                                #
+#   #Jenny's mod NEOFORGE 1.0.0                                                                                                                                             #
+#   https://cdn.modrinth.com/data/797897/version/768768/jennysmod-1.0.0.jar                                                                                                 #
+#                                                                                                                                                                           #
+#############################################################################################################################################################################
+
+#DEPENDENCIES
+#GECKOLIB FORGE 4.8.2 
+https://cdn.modrinth.com/data/8BmcQJ2H/versions/aVW7Z5da/geckolib-forge-1.20.1-4.8.2.jar
+
+#Lionfish-API NEO/FORGE 2.4
+https://cdn.modrinth.com/data/FoVacERa/versions/KZh3Mkcu/lionfishapi-2.4.jar
+
+#Obscure API FORGE 18
+https://cdn.modrinth.com/data/fU7jbFHc/versions/7sZmDObM/obscure_api-18.jar
+
+#Curios API NEO/FORGE 5.14.1
+https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar
+
+#Zeta 1.0.30
+#Quark Dependency
+https://cdn.modrinth.com/data/MVARlG2f/versions/boj4QtcB/Zeta-1.0-30.jar
+
+#COFH Core 11.0.2.56
+#Thermal Series Dependency
+https://cdn.modrinth.com/data/OWSRM4vD/versions/kglS53Hd/cofh_core-1.20.1-11.0.2.56.jar
+
+
+
+#BOSSES
+#Mowzies Mobs FORGE v1.7.3
+https://cdn.modrinth.com/data/BFbX9xcm/versions/WMCZ4t5U/mowziesmobs-1.7.3.jar
+
+#The Graveyard FORGE 3.1
+https://cdn.modrinth.com/data/U1jdQuSf/versions/Q66WyQ3F/The_Graveyard_3.1_%28FORGE%29_for_1.20.1.jar
+
+#EEEAB's Mobs FORGE 0.97-Fix
+https://cdn.modrinth.com/data/N8MNCv66/versions/NaWjW8bl/eeeabsmobs-1.20.1-0.97-Fix.jar
+
+#CATACLYSM FORGE 3.16
+https://cdn.modrinth.com/data/46KJle7n/versions/NvvXful4/L_Enders_Cataclysm-3.16.jar
+
+#Village and Spillage NEO/FORGE 1.2.8 
+https://cdn.modrinth.com/data/kLoMCc4b/versions/90YOIp4K/illageandspillagerespillaged-1.2.8.jar
+
+#Aquamirae FORGE 6.1.2
+https://cdn.modrinth.com/data/k23mNPhZ/versions/ADmEFc16/aquamirae-forge-1.20.1-6.1.2.jar
+
+#Call of yucutan FORGE 1.0.13
+https://cdn.modrinth.com/data/RV4ezinu/versions/s49dr29b/call_of_yucutan-1.0.13-forge-1.20.1.jar
+
+
+
+#WORLD GEN
+#Regions Unexplored FORGE 0.5.6
+#Biome mod that overhauls the overworld, nether and end in many ways.
+
+
+
+#END DIMENSION
+#End Remastered FORGE 5.3.3
+#Adds 16 Ender Eyes hidden all around your world to open the end portal
+https://cdn.modrinth.com/data/ZJTGwAND/versions/SQS2aSUl/endrem_forge-5.3.3-R-1.20.1.jar
+
+#Stellarity FORGE 2-0e
+#Overehaul of The End in a unique fantasy style
+https://cdn.modrinth.com/data/bZgeDzN8/versions/RKcXZAPf/Stellarity-v2-0e.jar
+
+
+#CREATE
+#Create base NEO/FORGE 6.0.8
+https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar
+
+#Create: Crafts and Additions FORGE 1.3.3
+#Addon that adds various addtitions and compatibility with RF mods
+https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar
+
+#Create: Steam 'n' Rails NEO/FORGE 1.6.14
+#Addon that adds more crafts for crate trains.
+https://cdn.modrinth.com/data/ZzjhlDgM/versions/ubktvkSZ/Steam_Rails-1.6.14-beta%2Bforge-mc1.20.1.jar
+
+
+
+#TECH MODS
+#CC: Tweaked FORGE 1.116.2 
+#Adds programmable computers, turtles and more.
+https://cdn.modrinth.com/data/gu7yAYhd/versions/HOGBfJ9m/cc-tweaked-1.20.1-forge-1.116.2.jar
+
+#Mekanism NEO/FORGE 10.4.16.80
+#High-tech machinery, powerful energy generation, fancy gadgets and more.
+https://cdn.modrinth.com/data/Ce6I4WUE/versions/uxe1WQp4/Mekanism-1.20.1-10.4.16.80.jar
+
+#PneumaticCraft repressurized NEO/FORGE 6.0.21
+#Cool stuff with compressed air
+https://cdn.modrinth.com/data/ncAcdgk7/versions/AuQD3oA8/pneumaticcraft-repressurized-6.0.21%2Bmc1.20.1.jar
+
+#ImmersiveEngineering FORGE 10.2.0-183
+#Retrofuturism, industry and multiblocks
+https://cdn.modrinth.com/data/tIm2nV03/versions/uqGFpLXw/ImmersiveEngineering-1.20.1-10.0.0-169.jar
+
+#EnderIO FORGE 6.2.16
+#Full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc.
+https://cdn.modrinth.com/data/49ZofO4f/versions/gUoYa2ko/EnderIO-1.20.1-6.2.16-beta-all.jar
+
+
+
+#QUARK
+#Quark Base FORGE 4.0-462
+#Compilation of small addons things
+https://cdn.modrinth.com/data/qnQsVE2z/versions/DijQLauD/Quark-4.0-462.jar
+
+#Quark Oddities FORGE 1.20.1
+#Enables Quark pipes
+https://cdn.modrinth.com/data/qeEEslrN/versions/NrzERFzz/QuarkOddities-1.20.1.jar
+
+
+
+#THERMAL SERIES
+#Thermal Foundation NEO/FORGE 11.0.6.70
+#The Foundation of a Thermally-enhanced world!
+https://cdn.modrinth.com/data/Xvg6q5Wp/versions/44ilyZbi/thermal_foundation-1.20.1-11.0.6.70.jar
+
+#Thermal Expansion FORGE 11.0.1.29
+#Content-rich blend of magic and technology!
+https://cdn.modrinth.com/data/hmD6rrUJ/versions/Ux2Z0ow1/thermal_expansion-1.20.1-11.0.1.29.jar
