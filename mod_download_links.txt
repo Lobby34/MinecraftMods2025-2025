@@ -36,6 +36,11 @@ https://cdn.modrinth.com/data/OWSRM4vD/versions/kglS53Hd/cofh_core-1.20.1-11.0.2
 #Ice and fire depenedcy
 https://cdn.modrinth.com/data/jJfV67b1/versions/oD1qDb1C/citadel-2.6.2-1.20.1.jar
 
+#Architectury API NEOFORGE 18.0.8
+# Luka's weapon leveling
+https://cdn.modrinth.com/data/lhGA9TYQ/versions/Z4ZAg0kG/architectury-18.0.8-neoforge.jar
+
+
 
 
 #BOSSES
@@ -139,3 +144,8 @@ https://cdn.modrinth.com/data/Xvg6q5Wp/versions/44ilyZbi/thermal_foundation-1.20
 #Thermal Expansion FORGE 11.0.1.29
 #Content-rich blend of magic and technology!
 https://cdn.modrinth.com/data/hmD6rrUJ/versions/Ux2Z0ow1/thermal_expansion-1.20.1-11.0.1.29.jar
+
+#WEAPONS NEO/FORGE 2.2.2
+#Lukas' Weapon Leveling
+#This mod makes it possible to level up your armor and weapons. It will also let items not disappear when broken.
+https://cdn.modrinth.com/data/IuFgFiGE/versions/eJJNwguo/weaponleveling-1.20.1-2.2.2-forge.jar
