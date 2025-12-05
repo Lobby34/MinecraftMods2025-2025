@@ -64,6 +64,18 @@ https://cdn.modrinth.com/data/RV4ezinu/versions/s49dr29b/call_of_yucutan-1.0.13-
 #Add wiverns, cyclops... Armors, weapons, materials...
 https://cdn.modrinth.com/data/LVnvHVBp/versions/EzN8KQYF/iceandfire-2.1.13-1.20.1-beta-5.jar
 
+#Legendary Monsters FORGE 1.9.8
+#Adds 1 new mob and 7 mini - bosses to the game.
+https://cdn.modrinth.com/data/9d9Bkqva/versions/LtJURbgf/legendarymonsters-1.9.8%20MC%201.20.1.jar
+
+#Terramity FORGE 0.9.8
+#Terraria-inspired mod that adds many new bosses and weapons
+https://cdn.modrinth.com/data/RHN9OPTT/versions/cjrb1wmA/terramity-0.9.8-forge-1.20.1.jar
+
+#AME's Mobs FORGE 1.3.6
+#adds new mobs and bosses with animation
+https://cdn.modrinth.com/data/ZS7PXhzK/versions/yoamUYsA/AME%27s%20Mobs%201.3.6%20-%201.20.1.jar
+
 
 
 #WORLD GEN
@@ -80,20 +92,6 @@ https://cdn.modrinth.com/data/ZJTGwAND/versions/SQS2aSUl/endrem_forge-5.3.3-R-1.
 #Stellarity FORGE 2-0e
 #Overehaul of The End in a unique fantasy style
 https://cdn.modrinth.com/data/bZgeDzN8/versions/RKcXZAPf/Stellarity-v2-0e.jar
-
-
-
-#CREATE
-#Create base NEO/FORGE 6.0.8
-https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar
-
-#Create: Crafts and Additions FORGE 1.3.3
-#Addon that adds various addtitions and compatibility with RF mods
-https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar
-
-#Create: Steam 'n' Rails NEO/FORGE 1.6.14 
-#Addon that adds more crafts for crate trains. 
-https://cdn.modrinth.com/data/ZzjhlDgM/versions/ubktvkSZ/Steam_Rails-1.6.14-beta%2Bforge-mc1.20.1.jar
 
 
 
@@ -118,6 +116,85 @@ https://cdn.modrinth.com/data/tIm2nV03/versions/uqGFpLXw/ImmersiveEngineering-1.
 #Full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc.
 https://cdn.modrinth.com/data/49ZofO4f/versions/gUoYa2ko/EnderIO-1.20.1-6.2.16-beta-all.jar
 
+#Just Enough Guns NEO/FORGE 0.13.2
+#A gun mod
+https://cdn.modrinth.com/data/n1EbSfq3/versions/d4cHjOUl/JustEnoughGuns-0.13.2-1.20.1.jar
+
+
+
+#UTILITY
+#Traveler's Backpack NEO/FORGE 9.1.46 
+#Adds backpacks
+https://cdn.modrinth.com/data/rlloIFEV/versions/ZYqaoP1B/travelersbackpack-forge-1.20.1-9.1.46.jar
+
+#Simple Voice Chat FORGE 2.6.6
+https://cdn.modrinth.com/data/9eGKb6K1/versions/ppDpEP1j/voicechat-forge-1.20.1-2.6.6.jar
+
+#Carry on FORGE 2.1.2.7
+#Allows you to pick up Tile Entities and Mobs
+https://cdn.modrinth.com/data/joEfVgkn/versions/edGQD16r/carryon-forge-1.20.1-2.1.2.7.jar
+
+#WATUT FORGE 1.2.3
+#Adds animations to see what players are doing
+https://cdn.modrinth.com/data/AtB5mHky/versions/GpiXMxvP/watut-forge-1.20.1-1.2.3.jar
+
+#Revive Me! FORGE 4.4.7
+https://cdn.modrinth.com/data/e1Ub5iPm/versions/dpacECC6/revive_me-1.20.1-4.4.7.jar
+
+
+
+#FURNITURE
+#Another Furniture FORGE 3.0.4
+#Vanilla-styled Minecraft furniture mod.
+https://cdn.modrinth.com/data/ulloLmqG/versions/S9tNKT5R/another_furniture-forge-1.20.1-3.0.4.jar
+
+
+
+#CREATE
+#Create base NEO/FORGE 6.0.8
+https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar
+
+#Create: Crafts and Additions FORGE 1.3.3
+#Addon that adds various addtitions and compatibility with RF mods
+https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar
+
+#Create: Steam 'n' Rails NEO/FORGE 1.6.14 
+#Addon that adds more crafts for crate trains. 
+https://cdn.modrinth.com/data/ZzjhlDgM/versions/ubktvkSZ/Steam_Rails-1.6.14-beta%2Bforge-mc1.20.1.jar
+
+#Create: Copycats NEO/FORGE 3.0.4
+#All the copycats you've ever wanted, combined into a single mod!
+https://cdn.modrinth.com/data/UT2M39wf/versions/OjWz9bJQ/copycats-3.0.4%2Bmc.1.20.1-forge.jar
+
+#Create: Deco FORGE 2.0.3
+#Industrial decoration
+https://cdn.modrinth.com/data/sMvUb4Rb/versions/e9gaSRMd/createdeco-2.0.3-1.20.1-forge.jar
+
+#Create: Big Cannons NEO/FORGE 5.9.1
+#Adds create Cannons
+https://cdn.modrinth.com/data/GWp4jCJj/versions/hdPNh3oa/createbigcannons-5.9.1%2Bmc.1.20.1-forge.jar
+
+#Create: Bells & Whistles NEO/FORGE 0.4.5
+#Additions and adornments for the modern Create engineer
+https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar
+
+#Create: Interiors NEO/FORGE 0.5.7
+#A complement to the Create mod that adds new furniture.
+https://cdn.modrinth.com/data/r4Knci2k/versions/sFv3NBS4/interiors-0.5.6%2Bforge-mc1.20.1-local.jar
+
+#Create: Connected NEO/FORGE 1.1.10
+#QoL blocks that you wish existed in Create
+https://cdn.modrinth.com/data/Vg5TIO6d/versions/saiZ8AwJ/create_connected-1.1.10-mc1.20.1-all.jar
+
+#Create: Design n'decor Forge 0.4.0b
+#A create addon that adds decor blocks to spice up your factory!
+https://cdn.modrinth.com/data/x49wilh8/versions/JtCSM1oV/design_decor-0.4.0b-1.20.1.jar
+
+#Create: Stuff 'N Additions FORGE 2.1.0
+#Dominate your environment with Create technology
+https://cdn.modrinth.com/data/aq9qUUQG/versions/Z3P99xA8/create-stuff-additions1.20.1_v2.1.0.jar
+
+
 
 
 #QUARK
@@ -139,3 +216,36 @@ https://cdn.modrinth.com/data/Xvg6q5Wp/versions/44ilyZbi/thermal_foundation-1.20
 #Thermal Expansion FORGE 11.0.1.29
 #Content-rich blend of magic and technology!
 https://cdn.modrinth.com/data/hmD6rrUJ/versions/Ux2Z0ow1/thermal_expansion-1.20.1-11.0.1.29.jar
+
+
+
+#CLIENT SIDE
+#Legendary Tooltips FORGE 1.4.5
+#Give your rare items a fancier tooltip!
+https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar
+
+#Jei FORGE 15.20.0.127
+#View Items and Recipes
+https://cdn.modrinth.com/data/u6dRKJwZ/versions/ruHSy16N/jei-1.20.1-forge-15.20.0.127.jar
+
+#Jer FORGE 1.40.247
+#JEI integration that adds info on mobs, world gen, villagers and many more!
+https://cdn.modrinth.com/data/uEfK2CXF/versions/jW52tbTk/JustEnoughResources-1.20.1-1.4.0.247.jar
+
+
+
+#SERVER SIDE
+#Nether portal Fix FORGE 13.0.1
+https://cdn.modrinth.com/data/nPZr02ET/versions/cWPAnu7u/netherportalfix-forge-1.20-13.0.1.jar
+
+#Tree harvester 9.1 Fabric/Neo/Forge/quilt
+#Harvest full trees
+https://cdn.modrinth.com/data/abooMhox/versions/EQYmDYvI/treeharvester-1.20.1-9.1.jar
+
+#Inventory  Totem FORGE NEO/FORGE 3.4 
+#Makes the totem of undying effect work when it's anywhere in the inventory.
+https://cdn.modrinth.com/data/yQj7xqEM/versions/FdstVlDW/inventorytotem-1.20.1-3.4.jar
+
+#Infinite Trading Fabric/Quilt/Neo/Forge 4.6
+#Prevents villaeger trading blocks
+https://cdn.modrinth.com/data/U3eoZT3o/versions/DkRq9YKI/infinitetrading-1.20.1-4.6.jar
