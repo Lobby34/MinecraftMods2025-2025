@@ -256,3 +256,6 @@ https://cdn.modrinth.com/data/U3eoZT3o/versions/DkRq9YKI/infinitetrading-1.20.1-
 
 #Dynmap FORGE 3.7-beta-6
 https://cdn.modrinth.com/data/fRQREgAc/versions/RtI5TFAi/Dynmap-3.7-beta-6-forge-1.20.jar
+
+#Pretty Pipes
+https://cdn.modrinth.com/data/XExdLWCQ/versions/dpWSk2aj/PrettyPipes-1.20.1-all.jar
