@@ -54,6 +54,9 @@ https://cdn.modrinth.com/data/B3pb093D/versions/MxClZxbS/ritchiesprojectilelib-2
 #CoroUtil NEO/FORGE 1.3.7
 https://cdn.modrinth.com/data/rLLJ1OZM/versions/6rPDKAT8/coroutil-forge-1.20.1-1.3.7.jar
 
+#Caelus API NEO/FORGE 3.2.0
+https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar
+
 
 #BOSSES
 #Mowzies Mobs FORGE v1.7.3
