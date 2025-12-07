@@ -69,6 +69,9 @@ https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-for
 #Kotlin For Forge NEO/FORGE 4.12.0
 https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar
 
+#MaFgLib 0.1.14
+https://cdn.modrinth.com/data/SKI34J7B/versions/adXONMb5/MaFgLib-0.1.14-mc1.20.1.jar
+
 
 
 #BOSSES
