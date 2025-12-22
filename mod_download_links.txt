@@ -70,7 +70,7 @@ https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-for
 https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar
 
 #MaFgLib 0.1.14
-#https://cdn.modrinth.com/data/SKI34J7B/versions/adXONMb5/MaFgLib-0.1.14-mc1.20.1.jar
+https://cdn.modrinth.com/data/SKI34J7B/versions/adXONMb5/MaFgLib-0.1.14-mc1.20.1.jar
 
 #DEPENDENCIES GT Craft
 https://cdn.modrinth.com/data/BCzBuhJ5/versions/ZRHHGzzE/Immersive%20Vehicles-1.20.1-22.18.1.jar
@@ -184,7 +184,7 @@ https://cdn.modrinth.com/data/jtmvUHXj/versions/ALKwAjwA/accessories-neoforge-1.
 https://cdn.modrinth.com/data/vEgtiJIY/versions/KK7jQh88/Armor%20of%20the%20Ages-forge-1.20.1-1.3.11.jar
 
 #Distant Horizons 2.3.6-b
-#https://cdn.modrinth.com/data/uCdwusMi/versions/HSc151Xv/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar
+https://cdn.modrinth.com/data/uCdwusMi/versions/HSc151Xv/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar
 
 
 
@@ -281,7 +281,7 @@ https://cdn.modrinth.com/data/uEfK2CXF/versions/jW52tbTk/JustEnoughResources-1.2
 https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar
 
 #ForgeMatica 0.1.13
-#https://cdn.modrinth.com/data/dCKRaeBC/versions/YncE2C0Y/Forgematica-0.1.13-mc1.20.1.jar
+https://cdn.modrinth.com/data/dCKRaeBC/versions/YncE2C0Y/Forgematica-0.1.13-mc1.20.1.jar
 
 #CustomSkinLoader 14.26.1
 https://cdn.modrinth.com/data/idMHQ4n2/versions/CcAsu9W3/CustomSkinLoader_ForgeV2-14.26.1.jar
