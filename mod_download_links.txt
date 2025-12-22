@@ -308,6 +308,12 @@ https://cdn.modrinth.com/data/U3eoZT3o/versions/DkRq9YKI/infinitetrading-1.20.1-
 https://cdn.modrinth.com/data/fRQREgAc/versions/RtI5TFAi/Dynmap-3.7-beta-6-forge-1.20.jar
 
 #Pretty Pipes
+https://cdn.modrinth.com/data/XExdLWCQ/versions/LqsTdtjN/PrettyPipes-1.15.0-all.jar
+
+#GT Craft
+https://cdn.modrinth.com/data/n1cr3YKZ/versions/2VvUWJqU/gtcraft-2.0.1%281.20.1%29.jar
+#DEPENDENCIES GT Craft
+https://cdn.modrinth.com/data/BCzBuhJ5/versions/ZRHHGzzE/Immersive%20Vehicles-1.20.1-22.18.1.jar
 https://cdn.modrinth.com/data/XExdLWCQ/versions/dpWSk2aj/PrettyPipes-1.20.1-all.jar
 
 # CRASH FIXES
