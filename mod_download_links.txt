@@ -69,6 +69,9 @@ https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-for
 #Kotlin For Forge NEO/FORGE 4.12.0
 https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar
 
+#MaFgLib 0.1.14
+#https://cdn.modrinth.com/data/SKI34J7B/versions/adXONMb5/MaFgLib-0.1.14-mc1.20.1.jar
+
 
 
 #BOSSES
@@ -177,7 +180,7 @@ https://cdn.modrinth.com/data/jtmvUHXj/versions/ALKwAjwA/accessories-neoforge-1.
 https://cdn.modrinth.com/data/vEgtiJIY/versions/KK7jQh88/Armor%20of%20the%20Ages-forge-1.20.1-1.3.11.jar
 
 #Distant Horizons 2.3.6-b
-https://cdn.modrinth.com/data/uCdwusMi/versions/HSc151Xv/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar
+#https://cdn.modrinth.com/data/uCdwusMi/versions/HSc151Xv/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar
 
 
 
@@ -192,20 +195,20 @@ https://cdn.modrinth.com/data/1DWmBJVA/versions/2I4cH49O/letsdo-vinery-forge-1.4
 
 
 #CREATE
-#Create base NEO/FORGE 6.0.8
-https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar
+#Create base NEO/FORGE 6.0.6
+https://cdn.modrinth.com/data/LNytGWDc/versions/JjPQsQVw/create-1.20.1-6.0.6.jar
 
 #Create: Crafts and Additions FORGE 1.3.3
 #Addon that adds various addtitions and compatibility with RF mods
 https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar
 
-#Create: Steam 'n' Rails NEO/FORGE 1.6.14 
+#Create: Steam 'n' Rails NEO/FORGE 1.6.13
 #Addon that adds more crafts for crate trains. 
-https://cdn.modrinth.com/data/ZzjhlDgM/versions/ubktvkSZ/Steam_Rails-1.6.14-beta%2Bforge-mc1.20.1.jar
+https://cdn.modrinth.com/data/ZzjhlDgM/versions/ezVPFGKZ/Steam_Rails-1.6.13-alpha%2Bforge-mc1.20.1.jar
 
-#Create: Copycats NEO/FORGE 3.0.4
+#Create: Copycats NEO/FORGE 3.0.2
 #All the copycats you've ever wanted, combined into a single mod!
-https://cdn.modrinth.com/data/UT2M39wf/versions/OjWz9bJQ/copycats-3.0.4%2Bmc.1.20.1-forge.jar
+https://cdn.modrinth.com/data/UT2M39wf/versions/ibcPwZZT/copycats-3.0.2%2Bmc.1.20.1-forge.jar
 
 #Create: Deco FORGE 2.0.3
 #Industrial decoration
@@ -223,9 +226,9 @@ https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-
 #A complement to the Create mod that adds new furniture.
 https://cdn.modrinth.com/data/r4Knci2k/versions/sFv3NBS4/interiors-0.5.6%2Bforge-mc1.20.1-local.jar
 
-#Create: Connected NEO/FORGE 1.1.10
+#Create: Connected NEO/FORGE 1.1.7
 #QoL blocks that you wish existed in Create
-https://cdn.modrinth.com/data/Vg5TIO6d/versions/saiZ8AwJ/create_connected-1.1.10-mc1.20.1-all.jar
+https://cdn.modrinth.com/data/Vg5TIO6d/versions/HMzC945H/create_connected-1.1.7-mc1.20.1-all.jar
 
 #Create: Stuff 'N Additions FORGE 2.1.0
 #Dominate your environment with Create technology
@@ -271,6 +274,18 @@ https://cdn.modrinth.com/data/u6dRKJwZ/versions/ruHSy16N/jei-1.20.1-forge-15.20.
 #JEI integration that adds info on mobs, world gen, villagers and many more!
 https://cdn.modrinth.com/data/uEfK2CXF/versions/jW52tbTk/JustEnoughResources-1.20.1-1.4.0.247.jar
 
+#Jade NEO/FORGE 11.13.2
+https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar
+
+#ForgeMatica 0.1.13
+#https://cdn.modrinth.com/data/dCKRaeBC/versions/YncE2C0Y/Forgematica-0.1.13-mc1.20.1.jar
+
+#CustomSkinLoader 14.26.1
+https://cdn.modrinth.com/data/idMHQ4n2/versions/CcAsu9W3/CustomSkinLoader_ForgeV2-14.26.1.jar
+
+#Journey Map 5.10.3
+https://cdn.modrinth.com/data/lfHFW1mp/versions/r7FWVNCs/journeymap-1.20.1-5.10.3-forge.jar
+
 
 
 #SERVER SIDE
@@ -299,3 +314,8 @@ https://cdn.modrinth.com/data/XExdLWCQ/versions/LqsTdtjN/PrettyPipes-1.15.0-all.
 https://cdn.modrinth.com/data/n1cr3YKZ/versions/2VvUWJqU/gtcraft-2.0.1%281.20.1%29.jar
 #DEPENDENCIES GT Craft
 https://cdn.modrinth.com/data/BCzBuhJ5/versions/ZRHHGzzE/Immersive%20Vehicles-1.20.1-22.18.1.jar
+https://cdn.modrinth.com/data/XExdLWCQ/versions/dpWSk2aj/PrettyPipes-1.20.1-all.jar
+
+# CRASH FIXES
+#Packet Fixer 3.3.1 NEO/FORGE
+https://cdn.modrinth.com/data/c7m1mi73/versions/96y8nmkX/packetfixer-3.3.1-1.18-1.20.4-merged.jar

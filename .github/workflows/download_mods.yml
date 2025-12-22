@@ -12,7 +12,6 @@ jobs:
     if: contains(github.event.head_commit.message, '[Release]')
 
     steps:
-      # Step 1: Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
@@ -21,47 +20,46 @@ jobs:
         id: vars
         run: |
           DATE=$(date +%Y%m%d)
-          SHORT_SHA=${GITHUB_SHA::5}
+          SHORT_SHA=${GITHUB_SHA::7}  # shorter SHA for tag
           ZIP_NAME="mods-$DATE-$SHORT_SHA.zip"
-          TAG_NAME="mods-$DATE-$SHORT_SHA"
+          TAG_NAME="mods-$DATE"       # Tag without SHA
           echo "ZIP_NAME=$ZIP_NAME" >> $GITHUB_ENV
           echo "TAG_NAME=$TAG_NAME" >> $GITHUB_ENV
+          echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
+          # Get commit message for description
+          COMMIT_MSG="${{ github.event.head_commit.message }}"
+          echo "COMMIT_MSG=$COMMIT_MSG" >> $GITHUB_ENV
 
-      # Step 3: Create mods folder
       - name: Create mods folder
         run: mkdir -p mods
 
-      # Step 4: Download mods
       - name: Download mods
         run: |
           while IFS= read -r url; do
-            # Remove leading/trailing whitespace without xargs
             url="${url#"${url%%[![:space:]]*}"}"
             url="${url%"${url##*[![:space:]]}"}"
-
-            # Skip empty lines or comments
             if [[ -z "$url" || "$url" == \#* ]]; then
               continue
             fi
-
             echo "Downloading $url..."
             curl -L -o "mods/$(basename "$url")" "$url"
           done < mod_download_links.txt
 
-
-      # Step 5: Zip mods folder
       - name: Zip mods
         run: zip -r "${{ env.ZIP_NAME }}" mods
 
-      # Step 6: Create or update release and upload ZIP
       - name: Create Release
         uses: ncipollo/release-action@v1
         with:
           tag: ${{ env.TAG_NAME }}
-          name: ${{ env.TAG_NAME }}
-          body: "Automated mods release for commit with ID: ${{ github.sha }}"
+          name: ${{ env.TAG_NAME }}   # Name shows the tag
+          body: |
+            Automated mods release.
+
+            Commit: ${{ github.sha }}
+            Commit message: ${{ github.event.head_commit.message }}
           artifacts: ${{ env.ZIP_NAME }}
           draft: false
           prerelease: false
           token: ${{ secrets.PAT_TOKEN }}
-          commit: ${{github.sha}}
+          commit: ${{ github.sha }}
